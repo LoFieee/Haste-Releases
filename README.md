@@ -7,7 +7,15 @@ The application source code is maintained separately and is not published here.
 
 ## Download
 
-Go to the **Releases** section of this repository and download the latest:
+Download the latest public release here:
+
+[Download Haste v1.1.1](https://github.com/LoFieee/Haste-Releases/releases/tag/v1.1.1)
+
+You can also browse all published versions here:
+
+[View all Haste releases](https://github.com/LoFieee/Haste-Releases/releases)
+
+Then download:
 
 ```text
 Haste-Setup.exe
